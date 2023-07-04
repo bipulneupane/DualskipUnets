@@ -1,5 +1,5 @@
 # DualskipUnets
-This is the repo to collect data and available codes for the paper entitled "Rethinking the U-Net, ResUnet, and U-Net3+ architectures with dual skip connections for building footprint extraction". The paper is archived at: https://arxiv.org/abs/2303.09064
+This is the repo to collect and prepare multi-resolution MELB data proposed in the paper entitled "Rethinking the U-Net, ResUnet, and U-Net3+ architectures with dual skip connections for building footprint extraction". The paper is archived at: https://arxiv.org/abs/2303.09064
 
 Please use the Jupyter notebook "Data_gather_from_NearmapTileAPI" to download the datasets. You need a Nearmap Tile API key to access the images from Nearmap. Please visit their website for the details and documentation.
 
