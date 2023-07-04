@@ -3,7 +3,7 @@ This is the repo to collect data and available codes for the paper entitled "Ret
 
 Please use the Jupyter notebook "Data_gather_from_NearmapTileAPI" to download the datasets. You need a Nearmap Tile API key to access the images from Nearmap. Please visit their website for the details and documentation.
 
-Building samples of the City of Melbourne is available in the CityPolygon folder, which is openly downloaded available at https://data.melbourne.vic.gov.au/explore/dataset/2020-building-footprints/information/
+Building samples of the City of Melbourne is available in the CityPolygon folder, which is openly available at https://data.melbourne.vic.gov.au/explore/dataset/2020-building-footprints/information/
 
 The paper is currently under review in a well-reputed journal. The codes for the DS-Unet, DS-ResUnet, and DS-Unet3+ will be available in this repo after the paper is published.
 
